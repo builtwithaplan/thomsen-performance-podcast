@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Thomsen Performance Podcast</title>
+    <link>https://www.youtube.com/@ThomsenPerformance</link>
+    <atom:link href="https://builtwithaplan.github.io/thomsen-performance-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© 2026 Thomas Thomsen</copyright>
+    <itunes:author>Thomas Thomsen</itunes:author>
+    <description>No-gatekeeping bodybuilding physiology, internal organ health, bloodwork markers, and real-world physique execution with Thomas Thomsen. Educational and harm-reduction focused only; not medical advice.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Thomas Thomsen</itunes:name>
+      <itunes:email>thomsenperformance@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://builtwithaplan.github.io/thomsen-performance-podcast/cover.jpg"/>
+    <image>
+      <url>https://builtwithaplan.github.io/thomsen-performance-podcast/cover.jpg</url>
+      <title>The Thomsen Performance Podcast</title>
+      <link>https://www.youtube.com/@ThomsenPerformance</link>
+    </image>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Fitness"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Why Bodybuilders Collapse Before 40 (5 Silent Organ Traps)</title>
+      <description>Sometimes bodybuilders pass away way too young. The media always blames a "steroid overdose," and buddies at the gym blame "bad heart genetics." Neither are right. Here are the 5 overlooked organ traps that basic doctor blood tests miss, explained in plain English with zero medical jargon.
+
+🔒 JOIN THE THOMSEN PERFORMANCE PRIVATE VAULT (FREE DISCORD):
+YouTube's automated guidelines restrict what bodybuilders can share publicly. For the free 1-page Bloodwork &amp; Organ Shield Cheat Sheet from this video, my unfiltered 16-week transformation logs, and my 5-meal + intra-workout nutrition algorithm, join our private Discord community here:
+👉 https://discord.gg/WTd9GXmhpy
+
+⚠️ MEDICAL &amp; EDUCATIONAL DISCLAIMER (EDSA):
+This video is strictly for educational, documentary, scientific, and harm-reduction purposes. I am not a medical doctor. Nothing in this video constitutes medical advice, a clinical diagnosis, a dosing instruction, or encouragement to use controlled substances or prescription medications. Always consult a licensed physician before making any changes to your health, training, nutrition, or medical care.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⏱️ CHAPTERS:
+0:00 The "Steroid Overdose" &amp; "Bad Genetics" Lie
+1:30 Trap #1: Sticky Blood Clots &amp; Why Thick Blood Ruins Your Gym Pump
+5:10 Trap #2: Hidden Heart Wall Scar Tissue (The 3 AM Short-Circuit)
+7:20 Trap #3: The "Zero Calcium Score" Heart Attack Under 45 (Soft Plaque)
+9:35 Inside the Thomsen Performance Private Discord Vault
+10:05 Trap #4: Nighttime Choking &amp; Sleeping Blood Pressure (Sleep Apnea)
+11:30 Trap #5: Kidney Filters, Cystatin-C vs. Creatinine &amp; The Ibuprofen Trap
+14:00 The 30-Second Heart Math Check Every Lifter Needs to Run
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 KEY BLOODWORK MARKERS &amp; TESTS DISCUSSED (For Your Doctor):
+1. Blood Thickness &amp; Clotting: Hydrated Hematocrit (45-49%), Fibrinogen clotting protein (200-300 mg/dL), Platelets (&lt;325k), D-Dimer (&lt;0.4), Homocysteine (&lt;8), Ferritin (stored iron &gt;30-40), Factor V Leiden genetic test.
+2. Heart Wall &amp; Electrical Health: Resting Heart Rate x Systolic Blood Pressure (&lt;7,500), Cardiac MRI with contrast dye + Strain Echocardiogram.
+3. Artery Soft Plaque (Under Age 45): ApoB (&lt;60-65 mg/dL), hs-CRP inflammation (&lt;0.6 mg/L), Lp(a) genetic cholesterol check (&lt;30), Dye-Contrast Coronary CT Angiogram (CCTA).
+4. Sleep &amp; Nighttime Blood Pressure: Home sleep apnea test, 24-hour blood pressure cuff (checking nighttime drop below 110/65).
+5. True Kidney Filtration: Cystatin-C (&lt;0.92 mg/L; not skewed by muscle mass, heavy training, steak, or creatine) + First-Morning Urine Albumin-to-Creatinine Ratio (uACR &lt;5).</description>
+      <pubDate>Sun, 08 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/builtwithaplan/thomsen-performance-podcast/releases/download/ep-2026-11-08-five-silent-killers/2026-11-08-five-silent-killers.mp3" length="27022645" type="audio/mpeg"/>
+      <guid isPermaLink="false">thomsen-performance-2026-11-08-five-silent-killers</guid>
+      <itunes:author>Thomas Thomsen</itunes:author>
+      <itunes:duration>00:18:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
